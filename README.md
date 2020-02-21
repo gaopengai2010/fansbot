@@ -36,7 +36,7 @@ fansbot is the bot to increse the number of your followers.
 32. https://github.com/zorrolau
 33. https://github.com/luoyt
 34. https://github.com/taosue
-35. eosiofans https://github.com/zhuxiangdanxi
+35. https://github.com/zhuxiangdanxi
 36. https://github.com/zhanglinx
 37. https://github.com/6r6
 38. https://github.com/luoyongtao
@@ -46,7 +46,7 @@ fansbot is the bot to increse the number of your followers.
 42. https://github.com/dynamohuang
 43. https://github.com/jiaige
 44. https://github.com/dong-baby?tab=stars
-45. Travis Day https://github.com/Drafei007
+45. https://github.com/Drafei007
 46. https://github.com/adamyi
 47. https://github.com/huangyan0914
 48. https://github.com/zhuxiangdanxi
